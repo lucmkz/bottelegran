@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3eceefaa-a0ff-49dc-b305-f2ffabd8fd41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YR5FQKqxHz8RgxAGXXl5GR7cqn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="lucastelegran" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eceefaa-a0ff-49dc-b305-f2ffabd8fd41" name="Default Changelist" comment="" />
+      <created>1582892461493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582892461493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1582892476735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582892476735" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1582892725121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582892725121" />
+    <state x="718" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582902024794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582902024794" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1582901324652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582901324652" />
+    <state x="782" y="436" key="Github.CreateGistDialog" timestamp="1582902261432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="436" key="Github.CreateGistDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582902261432" />
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1582901159102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582894187017" />
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582901159102" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1582901159102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="302" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582894187016" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582901159102" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1582901159102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="302" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582894187016" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582901159102" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1582901159102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="302" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1582894187016" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582901159102" />
+    <state width="1877" height="217" key="GridCell.Tab.1.bottom" timestamp="1582900571896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="217" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582900571896" />
+    <state width="1877" height="217" key="GridCell.Tab.1.center" timestamp="1582900571896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="217" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582900571896" />
+    <state width="1877" height="217" key="GridCell.Tab.1.left" timestamp="1582900571896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="217" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582900571896" />
+    <state width="1877" height="217" key="GridCell.Tab.1.right" timestamp="1582900571896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="217" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582900571896" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1582901492680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582901492680" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582902020522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582902020522" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582901681627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1582901681627" />
+  </component>
+</project>
