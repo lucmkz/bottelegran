@@ -19,8 +19,9 @@
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
   ![App Screenshot](demo/demons.gif)
-
+</p>
 
 ## :rocket: Technologies
 
